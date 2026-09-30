@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv_lab02/
+tmp/
+*.docx
+*.pdf
+output/result_exp7.png
